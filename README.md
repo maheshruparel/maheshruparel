@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 
 <!--
 
-
 [![Github](https://img.shields.io/github/followers/maheshruparel?label=Follow&style=social)](https://github.com/maheshruparel)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=maheshruparel)](https://github.com/maheshruparel)
 [![Linkedin](https://img.shields.io/badge/-Alexey%20Khachatryan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)](https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)
