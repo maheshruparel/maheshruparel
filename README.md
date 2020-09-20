@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
 
 
 <!--
-
+https://www.vectorlogo.zone/logos/angular/angular-ar21.svg
 [![Github](https://img.shields.io/github/followers/maheshruparel?label=Follow&style=social)](https://github.com/maheshruparel)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=maheshruparel)](https://github.com/maheshruparel)
 [![Linkedin](https://img.shields.io/badge/-Alexey%20Khachatryan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)](https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)
