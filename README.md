@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Mahesh Ruparel
 
 [![Github](https://img.shields.io/github/followers/maheshruparel?label=Follow&style=social)](https://github.com/maheshruparel)
-[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=maheshruparel)](https://github.com/maheshruparel)
+<!-- [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=maheshruparel)](https://github.com/maheshruparel) -->
 [![Linkedin](https://img.shields.io/badge/-Mahesh%20Ruparel-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maheshruparel/)](https://www.linkedin.com/in/maheshruparel)
 [![Mail](https://img.shields.io/badge/-maheshruparel@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:maheshruparel@gmail.com)
 
