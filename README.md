@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 
 <!--
+
 https://www.vectorlogo.zone/logos/angular/angular-ar21.svg
 [![Github](https://img.shields.io/github/followers/maheshruparel?label=Follow&style=social)](https://github.com/maheshruparel)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=maheshruparel)](https://github.com/maheshruparel)
