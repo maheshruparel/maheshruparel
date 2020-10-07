@@ -12,8 +12,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... TypeScript 
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... maheshruparel@gmail.com / +919427565403
+<!--
 - 😄 Pronouns: ... He/His
+-->
+<!--
 - ⚡ Fun fact: ... I am half finish
+-->
 
 # Mahesh Ruparel
 
