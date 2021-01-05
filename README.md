@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... NodeJS, Angular, MongoDB
-- 🌱 I’m currently learning ... React, Redux, TypeScript, NextJS
+- 🌱 I’m currently learning ... React, Redux, NextJS
 <!--
 - 👯 I’m looking to collaborate on ... React
 -->
