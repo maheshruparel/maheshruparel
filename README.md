@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... TypeScript 
 -->
 - 💬 Ask me about ... Anything
-- 📫 How to reach me ... maheshruparel@gmail.com / +91-9427565403
+- 📫 How to reach me ... maheshruparel@gmail.com
 <!--
 - 😄 Pronouns: ... He/His
 -->
